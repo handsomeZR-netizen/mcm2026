@@ -1,0 +1,22 @@
+# data
+data/processed/
+data/external/
+
+# outputs
+outputs/
+figures/
+
+# notebooks
+notebooks/.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+
+# os
+.DS_Store
+Thumbs.db
