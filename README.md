@@ -1,4 +1,34 @@
-# 2026 MCM C 题｜Data With The Stars
+# Mcm2026
+
+<!-- PORTFOLIO-SNAPSHOT:START -->
+<p align="left">
+  <img src="https://img.shields.io/badge/category-Research%20and%20academic%20tooling-blue" alt="Category" />
+  <img src="https://img.shields.io/badge/status-Public%20portfolio%20artifact-2ea44f" alt="Status" />
+</p>
+
+> Mathematical modeling workspace for MCM-style analysis, report drafting, visualization, and reproducible experiment notes.
+
+## Project Snapshot
+
+- Category: Research and academic tooling
+- Stack: Python, data-analysis, mathematical-modeling, mcm, python, research-notes
+- Status: Public portfolio artifact
+
+## What This Demonstrates
+
+- Presents the project with a clear purpose, technology stack, and review path.
+- Emphasizes reproducible research, academic writing, or measurable experiment artifacts.
+- Keeps implementation details and usage notes close to the code for easier reuse.
+
+## Quick Start
+
+```bash
+Start from README.md
+```
+
+<!-- PORTFOLIO-SNAPSHOT:END -->
+
+## Original Documentation
 
 本仓库用于 2026 美赛 C 题建模、分析与写作，目标是**清晰、可复现、可解释**并冲击高分。
 
